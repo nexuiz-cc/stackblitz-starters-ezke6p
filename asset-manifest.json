@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/stackblitz-starters-ezke6p/static/css/main.65d28858.css",
+    "main.js": "/stackblitz-starters-ezke6p/static/js/main.a358a604.js",
+    "index.html": "/stackblitz-starters-ezke6p/index.html",
+    "main.65d28858.css.map": "/stackblitz-starters-ezke6p/static/css/main.65d28858.css.map",
+    "main.a358a604.js.map": "/stackblitz-starters-ezke6p/static/js/main.a358a604.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65d28858.css",
+    "static/js/main.a358a604.js"
+  ]
+}
